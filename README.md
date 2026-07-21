@@ -1,2 +1,2 @@
-# updates
-This repo exists only as a place for update manifests for private apps.
+Update-check manifests for private apps.
+Machine-read by the apps themselves — not intended for human/public use.
